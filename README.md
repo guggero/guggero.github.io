@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to guggero's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/guggero/guggero.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is just an index of some of my projects and some info about myself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+ - [Blockchain Demo](http://gugger.guru/blockchain-demo)
+ - [Control layer and admin GUI for Crypto Currency Wallets running in Docker containers](https://github.com/guggero/docker-wallet-control)
+ - [PIVX Masternode running on Docker](https://github.com/guggero/docker-pivx-masternode)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About me
 
-```markdown
-Syntax highlighted code block
+![Avatar](https://avatars1.githubusercontent.com/u/1008879?v=4&s=460)
+Oliver Gugger
 
-# Header 1
-## Header 2
-### Header 3
+Technology and Free Software enthusiast, currently working for [Puzzle ITC](http://www.puzzle.ch) in Bern, Switzerland.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guggero/guggero.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact me at `gugger [at] gmail.com`. Recruiters **NOT** welcome!
