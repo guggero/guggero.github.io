@@ -10,7 +10,7 @@ This is just an index of some of my projects and some info about myself.
 
 ### About me
 
-![Avatar](https://avatars1.githubusercontent.com/u/1008879?v=4&s=460)
+<img src="https://avatars1.githubusercontent.com/u/1008879?v=4&s=460" width="250"><br/>
 Oliver Gugger
 
 Technology and Free Software enthusiast, currently working for [Puzzle ITC](http://www.puzzle.ch) in Bern, Switzerland.
