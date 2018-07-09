@@ -1,13 +1,22 @@
 ### GitHub Projects I'm working on
 
- - [Zero-knowledge Crypto Currency Key Storage](https://github.com/guggero/cloudcoins), live version at [www.cloudcoins.ch](https://www.cloudcoins.ch)
- - [Blockchain Demo](https://gugger.guru/blockchain-demo/)
- - [Workshop: The Lightning Network](https://gugger.guru/lightning-workshop/)
- - [Control layer and admin GUI for Crypto Currency Wallets running in Docker containers](https://github.com/guggero/docker-wallet-control)
- - [Collection of HOW-TOs](https://github.com/guggero/how-tos)
- - [PIVX Masternode running on Docker](https://github.com/guggero/docker-pivx-masternode)
- - [HTMLCOIN wallet running on Docker](https://github.com/guggero/docker-htmlcoin)
- - [Terracoin Masternode running on Docker](https://github.com/guggero/docker-terracoin-masternode)
+* [Zero-knowledge Crypto Currency Key Storage](https://github.com/guggero/cloudcoins), live version at [www.cloudcoins.ch](https://www.cloudcoins.ch)
+* [Blockchain Demo](https://gugger.guru/blockchain-demo/)
+* [Workshop: The Lightning Network](https://gugger.guru/lightning-workshop/)
+* [Control layer and admin GUI for Crypto Currency Wallets running in Docker containers](https://github.com/guggero/docker-wallet-control)
+* [Collection of HOW-TOs](https://github.com/guggero/how-tos)
+* [PIVX Masternode running on Docker](https://github.com/guggero/docker-pivx-masternode)
+* [HTMLCOIN wallet running on Docker](https://github.com/guggero/docker-htmlcoin)
+* [Terracoin Masternode running on Docker](https://github.com/guggero/docker-terracoin-masternode)
+
+### Slides
+
+Slides of my workshops and talks.
+
+* [The Lightning Network: Hands-on workshop](https://gugger.guru/lightning-workshop/slides-03-workshop.html)
+* [Smart Contracts/The Lightning Network: Talk at the Impact Hub on 2018-02-07](https://gugger.guru/lightning-workshop/slides-02-impact-hub.html)
+* [Bitcoin Cryptography with JavaScript: Talk at the BernerJS meetup on 2018-06-26](https://gugger.guru/lightning-workshop/slides-04-berner-js.html)
+* [Bitcoin Addresses: Talk at the meetup at Tesla on 2018-07-10](https://gugger.guru/lightning-workshop/slides-05-tesla.html)
 
 ### About me
 
