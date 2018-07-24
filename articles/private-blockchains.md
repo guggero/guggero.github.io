@@ -4,6 +4,12 @@ This is work in progress!
 
 My goal is to provide arguments as to why I think private/permissioned blockchains are useless and a hype.
 
+## what IS a blockchain?
+* consistent (=hashed)
+* append-only (=chain of hashes)
+* ownable (=signed)
+* agreeable state without central party (=consensus, canonical)
+
 ## ideology
 
 ### public blockchain
@@ -24,6 +30,7 @@ My goal is to provide arguments as to why I think private/permissioned blockchai
 
 ### public blockchain
 * security through external energy introduced into closed system
+* work proves immutability (Proof of Work)
 * trust in no entity
 * financial incentive to participate
 
@@ -31,7 +38,18 @@ My goal is to provide arguments as to why I think private/permissioned blockchai
 * security through central authority
 * trust in one or few entities
 * without currency on top, the blockchain story falls apart
+* with currency on top, you're probably running a scam (if it's not Bitcoin)
 * no incentive for anyone to participate other than promises by consortium
+
+## questions to ask if you want to create a private blockchain
+* Do you want to make data immutable?
+  * If only one or a few entities in a private blockchain can create blocks, there is no security of immutability.
+    A party that wants to fake information, they can do with very low effort (because no proof of work was put in).
+    If a party is trustworthy to not mutate the information, there is no need for a decentralized solution.
+* Do you want to create transparency for your users?
+  * Why would you store it in a private blockchain then?
+* Do you want to create your own token?
+  * You're probably running a scam.
 
 ## conclusions
 
