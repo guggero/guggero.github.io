@@ -5,9 +5,13 @@
 * [Workshop: The Lightning Network](https://gugger.guru/lightning-workshop/)
 * [Control layer and admin GUI for Crypto Currency Wallets running in Docker containers](https://github.com/guggero/docker-wallet-control)
 * [Collection of HOW-TOs](https://github.com/guggero/how-tos)
-* [PIVX Masternode running on Docker](https://github.com/guggero/docker-pivx-masternode)
-* [HTMLCOIN wallet running on Docker](https://github.com/guggero/docker-htmlcoin)
-* [Terracoin Masternode running on Docker](https://github.com/guggero/docker-terracoin-masternode)
+* [JavaScript implementation of the Schnorr BIP](https://github.com/guggero/bip-schnorr)
+* [JavaScript implementation of the AEZ encryption scheme](https://github.com/guggero/aez)
+* [Bitcoin Core with QT GUI running in Docker](https://github.com/guggero/docker-bitcoin-core-qt)
+* [Web/JavaScript animation of a lightning bolt in any DOM element](https://github.com/guggero/light-it-up)
+* [PIVX Masternode running in Docker](https://github.com/guggero/docker-pivx-masternode)
+* [HTMLCOIN wallet running in Docker](https://github.com/guggero/docker-htmlcoin)
+* [Terracoin Masternode running in Docker](https://github.com/guggero/docker-terracoin-masternode)
 
 ### Slides
 
