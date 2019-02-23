@@ -52,7 +52,7 @@ Most of the ideas are based on Saifedean Ammous' book
 * Go back to pure capitalism, abandon the destructive consumerism
 
 ## Facts about Bitcoin
-* Tell analogy "Our water is drugged" (this is my personal analogy, I'll publish it in an article soon!)
+* Tell analogy ["Our water is drugged"](analogy-our-water-is-drugged.md)
 * Divisibility (8 decimal places)
 * Scalability (Lightning Network)
 * Sovereign individual / be your own bank
