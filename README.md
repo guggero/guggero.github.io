@@ -1,6 +1,7 @@
 ### GitHub Projects I'm working on
 
 * [Zero-knowledge Crypto Currency Key Storage](https://github.com/guggero/cloudcoins), live version at [www.cloudcoins.ch](https://www.cloudcoins.ch)
+* [Cryptography Toolkit](https://gugger.guru/cryptography-toolkit/)
 * [Blockchain Demo](https://gugger.guru/blockchain-demo/)
 * [Workshop: The Lightning Network](https://gugger.guru/lightning-workshop/)
 * [Control layer and admin GUI for Crypto Currency Wallets running in Docker containers](https://github.com/guggero/docker-wallet-control)
