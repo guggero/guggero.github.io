@@ -1,8 +1,8 @@
 ### GitHub Projects I'm working on
 
-* [Zero-knowledge Crypto Currency Key Storage](https://github.com/guggero/cloudcoins), live version at [www.cloudcoins.ch](https://www.cloudcoins.ch)
 * [Cryptography Toolkit](https://gugger.guru/cryptography-toolkit/)
 * [Blockchain Demo](https://gugger.guru/blockchain-demo/)
+* [Zero-knowledge Crypto Currency Key Storage](https://github.com/guggero/cloudcoins), live version at [www.cloudcoins.ch](https://www.cloudcoins.ch)
 * [Workshop: The Lightning Network](https://gugger.guru/lightning-workshop/)
 * [Control layer and admin GUI for Crypto Currency Wallets running in Docker containers](https://github.com/guggero/docker-wallet-control)
 * [Collection of HOW-TOs](https://github.com/guggero/how-tos)
@@ -11,14 +11,13 @@
 * [Bitcoin Core with QT GUI running in Docker](https://github.com/guggero/docker-bitcoin-core-qt)
 * [Web/JavaScript animation of a lightning bolt in any DOM element](https://github.com/guggero/light-it-up)
 * [PIVX Masternode running in Docker](https://github.com/guggero/docker-pivx-masternode)
-* [HTMLCOIN wallet running in Docker](https://github.com/guggero/docker-htmlcoin)
-* [Terracoin Masternode running in Docker](https://github.com/guggero/docker-terracoin-masternode)
 
 ### Slides
 
 Slides of my workshops and talks.
 
 * [The Lightning Network: Hands-on workshop](https://gugger.guru/lightning-workshop/slides-03-workshop.html)
+* [Macaroons: What are they, how do they work and how are they used in LND?](https://gugger.guru/lightning-workshop/slides-06-macaroons.html)
 * [Smart Contracts/The Lightning Network: Talk at the Impact Hub on 2018-02-07](https://gugger.guru/lightning-workshop/slides-02-impact-hub.html)
 * [Bitcoin Cryptography with JavaScript: Talk at the BernerJS meetup on 2018-06-26](https://gugger.guru/lightning-workshop/slides-04-berner-js.html)
 * [Bitcoin Addresses: Talk at the meetup at Tesla on 2018-07-10](https://gugger.guru/lightning-workshop/slides-05-tesla.html)
