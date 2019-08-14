@@ -9,11 +9,9 @@
 * [Web/JavaScript animation of a lightning bolt in any DOM element](https://github.com/guggero/light-it-up)
 * [Web/JavaScript animation how Lightning Network channels work](https://puzzle.github.io/beadnet/)
 * [Blockchain Demo](https://gugger.guru/blockchain-demo/)
-* [Zero-knowledge Crypto Currency Key Storage](https://github.com/guggero/cloudcoins), live version at [www.cloudcoins.ch](https://www.cloudcoins.ch)
 * [Workshop: The Lightning Network](https://gugger.guru/lightning-workshop/)
 * [Control layer and admin GUI for Crypto Currency Wallets running in Docker containers](https://github.com/guggero/docker-wallet-control)
 * [Collection of HOW-TOs](https://github.com/guggero/how-tos)
-* [PIVX Masternode running in Docker](https://github.com/guggero/docker-pivx-masternode)
 
 ### Slides
 
