@@ -29,6 +29,6 @@ Slides of my workshops and talks.
 <img src="https://avatars1.githubusercontent.com/u/1008879?v=4&s=460" width="250"><br/>
 Oliver Gugger
 
-Technology, Bitcoin and Free Software enthusiast, currently working as a full stack engineer for [Puzzle ITC](http://www.puzzle.ch) in Bern, Switzerland.
+Technology, Bitcoin and Free Software enthusiast, currently working as a lightning infrastructure engineer for [Lightning Labs](https://lightning.engineering) remotely.
 
 Contact me at `gugger [at] gmail.com`. Recruiters **NOT** welcome!
